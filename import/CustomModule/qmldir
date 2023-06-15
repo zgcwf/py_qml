@@ -1,0 +1,15 @@
+module CustomModule
+
+singleton Constants 1.0 Constants.qml
+
+RectangleItem 1.0 RectangleItem.qml
+AnchorsItem 1.0 AnchorsItem.qml
+CarouselItem 1.0 CarouselItem.qml
+MyButton 1.0 MyButton.qml
+Signal 1.0 Signal.qml
+MyTimer 1.0 MyTimer.qml
+Clock 1.0 Clock.qml
+RowColumnLayout 1.0 RowColumnLayout.qml
+GridLayout 1.0 GridLayout.qml
+FlowLayout 1.0 FlowLayout.qml
+Tv 1.0 Tv.qml

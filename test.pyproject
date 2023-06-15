@@ -1,0 +1,3 @@
+{
+    "files": ["import/CustomModule/RectangleItem.qml","import/CustomModule/RowColumnLayout.qml","images/img3.jpg","import/CustomModule/Constants.qml","import/CustomModule/FlowLayout.qml","import/CustomModule/MyTimer.qml","import/CustomModule/Clock.qml","images/img4.jpg","images/icon.png","images/img1.jpg","utils.js","import/CustomModule/GridLayout.qml","images/img2.jpg","main.qml","import/CustomModule/AnchorsItem.qml","import/CustomModule/qmldir","import/CustomModule/CarouselItem.qml","import/CustomModule/CarouselButton.qml","import/CustomModule/MyButton.qml","main.py","import/CustomModule/Signal.qml","import/CustomModule/Tv.qml"]
+}
